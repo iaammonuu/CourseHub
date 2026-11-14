@@ -1,0 +1,6 @@
+{
+  "name": "CourseHub – Course Enrollment & Registration System",
+  "description": "University-grade full-stack course enrollment, seat management, faculty roster, and administrative analytics platform with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
